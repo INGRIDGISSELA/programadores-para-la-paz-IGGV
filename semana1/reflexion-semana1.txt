@@ -1,0 +1,1 @@
+Esto se relaciona de manera que se involucra eb la trazabilidad y la transparencia. ya que Git gestiona de forma organizada la infornacion evitando errores que puedan afectar lo que se eete ejecutando.
