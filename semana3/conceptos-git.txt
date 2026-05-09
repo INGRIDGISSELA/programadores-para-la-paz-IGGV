@@ -1,0 +1,8 @@
+Repositorio
+Es el espacio donde se almacena todo tu proyecto, incluyendo el historial completo de cambios. 
+
+Commit
+Es una confirmación de los cambios que has realizado en el código en un momento específico.  
+
+Push
+Es la acción de enviar los commits desde la computadora local hacia un servidor remoto este paso es fundamental para respaldar tu trabajo en la nube.
