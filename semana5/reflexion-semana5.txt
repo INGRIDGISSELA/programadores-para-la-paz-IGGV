@@ -1,0 +1,7 @@
+Las APIs son herramientas muy poderosas que permiten que las comunidades compartan información, reportes o alertas de manera organizada y eficiente.
+
+Por medio de rutas como GET, las comunidades pueden consultar información actualizada, como eventos próximos o reportes existentes. Con rutas POST, las personas pueden enviar alertas o reportes en tiempo real desde sus celulares o computadoras.
+
+Esto facilita la coordinación entre vecinos, ya que la información queda centralizada y accesible para todos. Además, al usar tecnologías abiertas como Node.js y Express, cualquier persona con conocimientos básicos puede crear o mejorar estas herramientas según las necesidades específicas de su comunidad.
+
+En resumen, las APIs ayudan a construir sistemas tecnológicos democráticos, transparentes y adaptados a las realidades locales.

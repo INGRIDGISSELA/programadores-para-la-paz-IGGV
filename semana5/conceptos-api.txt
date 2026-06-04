@@ -1,0 +1,7 @@
+Qué hace esta ruta?
+
+Esta ruta sirve para que las personas de una comunidad puedan enviar reportes, alertas o quejas (ejemplo: reporte de un bache, falta de agua, evento de seguridad, etc.).
+
+Para qué podría servir en una aplicación comunitaria?
+
+En una aplicación comunitaria sería muy útil porque permite recolectar información de forma estructurada.
