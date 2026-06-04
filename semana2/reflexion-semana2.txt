@@ -1,0 +1,1 @@
+La terminal permite encadenar comandos. Si necesitas crear 10 carpetas para un proyecto, mover archivos específicos a cada una y luego renombrarlos, hacerlo a mano te tomaría minutos.

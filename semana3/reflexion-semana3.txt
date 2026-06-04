@@ -1,0 +1,1 @@
+para garantizar la integridad del código, facilitar la colaboración simultánea entre desarrolladores y permitir la reversión segura a versiones anteriores.
