@@ -1,0 +1,9 @@
+La seguridad digital es muy importante para proteger las plataformas tecnológicas que usan las comunidades porque estas herramientas manejan información sensible de muchas personas.
+
+Si una plataforma es hackeada o se filtran datos, se puede perder la confianza de los participantes, y hasta poner en riesgo a las personas. Por eso es fundamental proteger las contraseñas, usar conexiones seguras y mantener todo actualizado.
+
+En iniciativas comunitarias, donde muchas veces trabajan personas con diferente nivel técnico, es clave crear sistemas que sean seguros pero fáciles de usar. Una brecha de seguridad podría desmotivar a la gente a participar o incluso poner en peligro actividades sociales.
+
+Además, una buena seguridad ayuda a que la información de los reportes, votaciones o comunicaciones de la comunidad se mantenga privada y confiable.
+
+En conclusión, la seguridad digital no es solo una cuestión técnica, sino una forma de cuidar y respetar a las personas que forman parte de estas iniciativas comunitarias.

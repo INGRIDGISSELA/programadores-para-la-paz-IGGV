@@ -1,0 +1,8 @@
+Buenas prácticas de seguridad para plataformas digitales comunitarias:
+
+1. Usar contraseñas fuertes y diferentes en cada servicio.
+2. No exponer datos personales de los usuarios innecesariamente.
+3. Utilizar conexiones seguras (HTTPS).
+4. Registrar y monitorear los accesos al sistema.
+5. Mantener el software y dependencias siempre actualizadas.
+6. Hacer copias de seguridad periódicas.

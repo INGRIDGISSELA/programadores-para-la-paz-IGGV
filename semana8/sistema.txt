@@ -1,0 +1,5 @@
+El comando "uname -a" muestra información detallada del sistema operativo (nombre, versión, arquitectura, etc.).
+
+El comando "whoami" muestra el nombre del usuario actual que está usando la terminal.
+
+Es útil conocer esta información cuando se administra un servidor porque ayuda a verificar en qué sistema estamos trabajando, qué versión tiene y con qué usuario estamos conectados. Esto es importante para evitar errores y tomar decisiones correctas de configuración y seguridad.
