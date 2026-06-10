@@ -1,0 +1,3 @@
+Cuando envío un reporte mediante POST a http://localhost:3000/reportes, el servidor lo guarda en el array "reportes" y devuelve un mensaje de confirmación con los datos.
+
+Al consultar con GET http://localhost:3000/reportes, el servidor me devuelve todos los reportes guardados en formato JSON (una lista con los reportes anteriores).
