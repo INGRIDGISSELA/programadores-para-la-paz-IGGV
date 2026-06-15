@@ -1,0 +1,9 @@
+Es muy importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor porque de ellas depende la confianza y participación de las personas.
+
+Si un servidor se cae constantemente o tiene fallos, las personas dejan de usarlo porque se frustran. Además, si no es seguro, se pueden filtrar datos personales o reportes sensibles, lo que podría generar problemas graves para los miembros de la comunidad.
+
+Un servidor estable permite que los reportes, alertas y comunicaciones funcionen las 24 horas, generando continuidad en el trabajo comunitario. También facilita el monitoreo y la rápida solución de problemas.
+
+En iniciativas ciudadanas, donde muchas veces no hay grandes presupuestos, es clave que las herramientas tecnológicas sean confiables, porque representan la voz y las necesidades de muchas personas.
+
+Por eso, entender cómo funciona un servidor y mantenerlo estable no es solo una cuestión técnica, sino una forma de cuidar y respetar el esfuerzo colectivo de la comunidad.
