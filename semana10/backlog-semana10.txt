@@ -1,0 +1,7 @@
+Backlog - Plataforma de Reportes Comunitarios (Veeduría Ciudadana)
+
+1. Como ciudadano quiero registrar una incidencia (bache, luz fundida, basura, etc.) para que sea visible y atendida por la comunidad.
+2. Como coordinador quiero recibir una notificación en Telegram cuando se registre un nuevo reporte para poder revisarlo rápidamente.
+3. Como miembro de la comunidad quiero consultar los reportes públicos para saber qué problemas se están gestionando.
+4. Como coordinador quiero ver el estado de cada reporte (pendiente, en proceso, resuelto) para dar seguimiento.
+5. Como ciudadano quiero ver un mapa simple de las incidencias reportadas para tener mayor conciencia de los problemas en mi barrio.

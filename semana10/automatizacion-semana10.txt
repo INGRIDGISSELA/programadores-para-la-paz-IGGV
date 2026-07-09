@@ -1,0 +1,12 @@
+Flujo de automatización propuesto (n8n + Telegram):
+
+- Evento que activa el flujo: Nuevo reporte registrado en la plataforma.
+- Acción: Enviar mensaje automático a un canal o chat de Telegram del equipo coordinador.
+- Mensaje ejemplo: "Nuevo reporte recibido ✅ Tipo: Iluminación pública - Revisar en el sistema."
+
+Información que NO debe enviarse por seguridad:
+- Nombres completos de las personas
+- Direcciones exactas
+- Teléfonos o datos de contacto
+- Documentos de identidad
+- Cualquier dato sensible

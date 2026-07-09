@@ -1,0 +1,14 @@
+Tareas prioritarias para la primera iteración:
+
+1. Registrar una incidencia (Historia de usuario #1)
+2. Recibir notificación en Telegram (#2)
+
+¿Por qué son las más importantes?
+Porque sin la posibilidad de registrar reportes y recibir alertas, la plataforma no tendría sentido. Son el núcleo del proyecto.
+
+Definición de Terminado (Definition of Done):
+
+- La funcionalidad funciona correctamente.
+- Fue probada manualmente.
+- El código está subido a GitHub con un commit claro.
+- Se documentó brevemente lo realizado.
