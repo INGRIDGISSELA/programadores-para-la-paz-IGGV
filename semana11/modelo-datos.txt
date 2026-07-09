@@ -1,0 +1,22 @@
+Modelo de Datos - Plataforma Comunitaria
+
+Entidad: Causa
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- estado (pendiente, en_proceso, resuelta)
+
+Propósito: 
+Guardar las iniciativas, quejas o proyectos comunitarios para que sean visibles y se pueda dar seguimiento.
+
+Entidad: Apoyo
+Campos principales:
+- id
+- causa_id
+- usuario_id
+- fecha
+
+Propósito: 
+Registrar quién apoya cada causa y cuántos apoyos tiene, para medir el interés y participación de la comunidad.
