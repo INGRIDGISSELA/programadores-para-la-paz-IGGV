@@ -1,0 +1,16 @@
+Modelo de datos simple:
+
+Entidad: Causa
+- id: identificador único
+- titulo: título de la petición
+- descripcion: detalle de la causa
+- fecha: fecha de creación
+- numero_apoyos: contador de personas que apoyan
+
+Entidad: Apoyo
+- id: identificador único
+- causa_id: referencia a la causa que se apoya
+- nombre: nombre de la persona que apoya (opcional)
+- fecha: fecha en que se registró el apoyo
+
+Este modelo permite registrar peticiones y llevar el conteo de apoyos de forma organizada y segura.

@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy poderosa para fortalecer la participación ciudadana y la organización comunitaria, siempre y cuando se use de forma adecuada y accesible.
+
+Aprendí a crear servidores con Node.js y Express, manejar rutas, recibir datos de los usuarios, almacenar información en memoria y estructurar sistemas simples. También comprendí la importancia de la seguridad digital y de diseñar sistemas que respeten la privacidad de las personas.
+
+Lo más valioso fue darme cuenta de que con pocos recursos técnicos es posible crear herramientas que resuelvan problemas reales de las comunidades: registrar reportes, recolectar apoyos, generar documentos automáticos y mantener a las personas informadas.
+
+Creo que la tecnología abierta y sencilla permite que las comunidades no dependan solo de grandes plataformas, sino que puedan construir sus propias soluciones adaptadas a sus necesidades.
+
+Este curso me motivó a seguir aprendiendo porque vi que la programación no es solo código, sino una forma de generar impacto social positivo.

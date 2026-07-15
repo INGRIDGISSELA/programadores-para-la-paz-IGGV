@@ -1,0 +1,16 @@
+Automatización propuesta (usando n8n o Telegram):
+
+Evento que activa la automatización: 
+Cuando se crea una nueva causa o cuando se alcanza un número importante de apoyos.
+
+Acción:
+Enviar un mensaje automático por Telegram a los administradores o al grupo comunitario.
+
+Ejemplo de mensaje:
+"Nueva causa registrada: 'Mejorar iluminación en el parque'. Ya cuenta con 45 apoyos."
+
+Información que NO debe enviarse por seguridad:
+- Cédulas o documentos de identidad
+- Teléfonos personales
+- Direcciones exactas
+- Comentarios o datos sensibles de los participantes
